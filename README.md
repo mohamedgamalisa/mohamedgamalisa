@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi, I'm Mohamed Gamal</h1>
 
-<h2 align="center">Undergraduate Electrical Engineer | DevOps Trainee | Embedded & AI Enthusiast</h2>
+<h2 align="center">Undergraduate Electrical Engineer | Cloud & DevOps Trainee |</h2>
 <br>
 
 <p align="center">
