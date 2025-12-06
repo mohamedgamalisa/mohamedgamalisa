@@ -12,7 +12,7 @@
 
 <p align="center">
   <a>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Electrical+Engineer&font=Bold+Code&center=true&color=30F050&pause=2000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer&font=Bold+Code&center=true&color=30F050&pause=2000">
   </a>
 </p>
 
