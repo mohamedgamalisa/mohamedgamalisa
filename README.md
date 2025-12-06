@@ -48,7 +48,7 @@
 ### 🛠️ Top Technical Skills & Tools
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,linux,bash,git,arduino,matlab,docker,devops,proteus&perline=7" style="height:113px;"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,linux,bash,git,arduino,matlab,docker,devops,proteus,pyspark,vscode&perline=7" style="height:113px;"/>
 </p>
 
 ### 🏆 GitHub Trophies
